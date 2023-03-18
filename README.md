@@ -1,8 +1,8 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
+- A Masa
+- B César
 - C
 
 This repository contains  
